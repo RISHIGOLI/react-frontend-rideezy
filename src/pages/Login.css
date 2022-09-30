@@ -1,0 +1,53 @@
+.demo1:hover {
+  background-color: #d77edc;
+  border: #d77edc;
+}
+.demo1 {
+  border: 1px solid #d77edc;
+  background-color: #d77edc;
+  color: black;
+}
+.demo1:hover {
+  background-color: #7f0c86;
+}
+
+.bord {
+  border: 1px solid #7f0c86;
+  /* border: 1px solid #d77edc; */
+}
+.changecolor {
+  /* background-color:##7f0c86; */
+  color:white;
+  border: 2px solid black;
+  background: linear-gradient(to right, #624256, #f09) !important;
+}
+.bgchange {
+  background: linear-gradient(to right, #624256, #f09) !important;
+  color: white;
+}
+.mar {
+  margin-left: 100px;
+}
+.mar1 {
+  margin-left: 65px;
+}
+p {
+  margin-bottom: 0rem;
+}
+
+.bg{
+  background: linear-gradient(to right, #624256, #f09) !important;
+  color: #fff;
+}
+
+.remove{
+  background: linear-gradient(to right, #624256, #f09) !important;
+}
+/* body{
+  background: linear-gradient(to right, #624256, #f09) !important;
+color:white
+} */
+.loginBg{
+  height: 658px;
+  background: linear-gradient(to right, #624256, #f09) !important;
+}
